@@ -1,4 +1,4 @@
 echo "Hello Git"
 
-date
-time
+echo "Today's date is " date
+echo "todays time is " time
