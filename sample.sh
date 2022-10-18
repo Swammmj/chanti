@@ -6,3 +6,5 @@ echo "todays time is "
 time
 pwd
 ls
+touch
+cat
